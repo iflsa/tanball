@@ -1,27 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "/home/milo/Coding/tanball/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/home/milo/Repos/tanball/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
-                {
-                    "source": "/home/milo/Coding/tanball/android/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "347"
-                    },
-                    "to": {
-                        "startLines": "41",
-                        "startColumns": "4",
-                        "startOffsets": "2477",
-                        "endLines": "45",
-                        "endColumns": "12",
-                        "endOffsets": "2769"
-                    }
-                },
                 {
                     "source": "/home/milo/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/values/values.xml",
                     "from": {
@@ -58,6 +39,25 @@
                         "endLines": "2,61,78,167",
                         "endColumns": "60,12,24,24",
                         "endOffsets": "111,3811,4717,9928"
+                    }
+                },
+                {
+                    "source": "/home/milo/Repos/tanball/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "347"
+                    },
+                    "to": {
+                        "startLines": "41",
+                        "startColumns": "4",
+                        "startOffsets": "2477",
+                        "endLines": "45",
+                        "endColumns": "12",
+                        "endOffsets": "2769"
                     }
                 }
             ]
