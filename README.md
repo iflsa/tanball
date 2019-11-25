@@ -11,9 +11,8 @@ Tanball is a simple game where you're supposed to put a ball inside a basket wit
 [Download for Android](https://github.com/miloszratajczyk/tanball/releases)
 
 ## Pictures
-
-![Web Screenshot](images/web.png)
-
-![Mobile Screenshot](images/mobile.jpg)
+| Web App | Mobile App |
+|---------|------------|
+| ![Web Screenshot](images/web.png) | ![Mobile Screenshot](images/mobile.jpg) |
 
 ### App created with love in flutter by Miłosz Ratajczyk.
